@@ -6,6 +6,15 @@ Analizar los riesgos de seguridad en una parte crítica del sistema usando el ma
 
 ---
 
+taller-05-seguridad-stride/
+├── README.md
+├── clase/
+│   ├── tabla-stride-clase.xlsx
+│   └── notas.md
+├── entrega/
+│   ├── tabla-stride-cliente.xlsx
+│   ├── informe.md
+│   └── referencias.md
 ## 🎓 Caso base de referencia: EdukIT (Plataforma de Educación Virtual)
 
 EdukIT es una plataforma de educación en línea que ofrece cursos certificados para estudiantes en América Latina. Administra el acceso a contenido educativo, evaluaciones, interacción con docentes y pagos por suscripción. El sistema gestiona información sensible como historial académico, datos personales, medios de pago y actividad del usuario. Evaluar la seguridad de estos procesos a través de un marco como STRIDE permite anticipar amenazas como suplantación, filtración de datos o accesos no autorizados, y diseñar estrategias de mitigación alineadas con las necesidades de protección de la información educativa.
